@@ -32,7 +32,7 @@
 This case study explores Fitbit-style smart-device usage to understand user behavior related to **activity, sleep, calories, intensity, and heart rate**.  
 The goal is to uncover trends that can help **Bellabeat** optimize wellness product strategy and marketing.
 
-Tools Used: **Excel**, **MySQL**, **RStudio**
+Tools Used: **MS Excel**, **MySQL**, **RStudio**
 
 ---
 
