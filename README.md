@@ -84,9 +84,9 @@ Bellabeat wants insights into **how users interact with wearable devices** to im
 ---
 
 # 🔷 A. SQL Analysis (MySQL)  
-👉 All screenshot results stored in: **Fitbit_analysis_results**
-
-👉 Full SQL script: **fitbit_analysis.sql**
+👉 *All screenshots are stored in:*  
+📂 [`Fitbit_analysis_results`](./Fitbit_analysis_results)
+📄 SQL Script: [`fitbit_analysis.sql`](./fitbit_analysis.sql)
 
 ### ✔ Highlights  
 - Created structured tables  
@@ -94,8 +94,85 @@ Bellabeat wants insights into **how users interact with wearable devices** to im
 - Constructed **daily_master** table  
 - Computed trends & summary statistics  
 
-**(Screenshots not repeated here since they are already added earlier.)**
+### 📘 1. Row Counts Per Table  
+![Row Counts](./Fitbit_analysis_results/row_counts_per_table_sql.png)  
+*Validates number of rows loaded for each dataset.*
 
+### 📘 2. Distinct Users  
+![Distinct Users](./Fitbit_analysis_results/daily_activity_distinct_users_sql.png)  
+*Shows total unique Fitbit users.*
+
+### 📘 3. Date Range Validation  
+![Date Range](./Fitbit_analysis_results/date_range_checks_sql.png)  
+*Ensures consistent date ranges across datasets.*
+
+### 📘 4. Invalid Heart Rate Check  
+![Invalid HR](./Fitbit_analysis_results/invalid_heartrate_records_sql.png)  
+*Confirms filtering of unrealistic HR values.*
+
+### 📘 5. Daily Sleep Summary  
+![Daily Sleep](./Fitbit_analysis_results/daily_sleep_summary_sql.png)  
+*Aggregates sleep minutes per user per day.*
+
+### 📘 6. Daily Steps Summary  
+![Daily Steps](./Fitbit_analysis_results/daily_steps_sql.png)  
+*Daily step totals derived from hourly logs.*
+
+### 📘 7. Daily Calories Summary  
+![Calories](./Fitbit_analysis_results/daily_calories_sql.png)  
+*Total daily calories burned.*
+
+### 📘 8. Daily Intensity Summary  
+![Intensity](./Fitbit_analysis_results/daily_intensity_summary_sql.png)  
+*Daily totals and averages of intensity.*
+
+### 📘 9. Daily Heart Rate Summary  
+![HR Summary](./Fitbit_analysis_results/daily_heartrate_summary_sql.png)  
+*Mean, min, and max HR per day.*
+
+### 📘 10. Daily Master Table  
+![Daily Master](./Fitbit_analysis_results/daily_master_table_validation_sql.png)  
+*Merged dataset combining all metrics.*
+
+### 📘 11. Total Users Check  
+![Total Users](./Fitbit_analysis_results/total_users_sql.png)  
+*Ensures user tracking across tables.*
+
+### 📘 12. Summary Metrics  
+![Summary Metrics](./Fitbit_analysis_results/overall_summary_metrics_sql.png)  
+*Key daily averages: steps, sleep, HR, calories.*
+
+### 📘 13. Average Steps by Day of Week  
+![Avg Steps Week](./Fitbit_analysis_results/avg_steps_by_day_of_week_sql.png)  
+*Reveals highest activity mid-week.*
+
+### 📘 14. Sleep vs Steps  
+![Sleep vs Steps](./Fitbit_analysis_results/sleep_vs_steps_avg_sql.png)  
+*Shows relationship between sleep duration and steps.*
+
+### 📘 15. Sedentary vs Calories  
+![Sed vs Cal](./Fitbit_analysis_results/sedentary_vs_calories_avg_sql.png)  
+*Higher sedentary time reduces daily calorie burn.*
+
+### 📘 16. Heart Rate Trend  
+![HR Trend](./Fitbit_analysis_results/daily_heartrate_trend_sql.png)  
+*Displays daily HR fluctuations.*
+
+### 📘 17. Top 10 Active Users  
+![Top Users](./Fitbit_analysis_results/top_10_users_by_avg_steps_sql.png)  
+*Ranks users by average steps.*
+
+### 📘 18. Sorted Weekday Steps  
+![Weekday Sorted](./Fitbit_analysis_results/avgg_steps_by_day_of_week_sql.png)  
+*Weekday ranking of step totals.*
+
+### 📘 19. Average Steps by Hour  
+![Hourly Steps](./Fitbit_analysis_results/avg_steps_by_hour_sql.png)  
+*Shows morning peak activity (7–10 AM).*
+
+### 📘 20. Daily Steps — R Comparison  
+![Daily Steps R](./Fitbit_analysis_results/avg_daily_steps_by_day_of_week_R.png)  
+*R visualization confirming weekday activity trends.*
 ---
 
 # 🔷 B. R Analysis (RStudio)  
