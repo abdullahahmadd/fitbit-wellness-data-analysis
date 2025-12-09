@@ -6,8 +6,6 @@
 ![SQL](https://img.shields.io/badge/Tool-MySQL-orange?logo=mysql)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel)
 ![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey)
-![Repo Size](https://img.shields.io/github/repo-size/abdullahahmadd/fitbit-wellness-case-study)
-![Stars](https://img.shields.io/github/stars/abdullahahmadd/fitbit-wellness-case-study?style=social)
 
 ---
 
