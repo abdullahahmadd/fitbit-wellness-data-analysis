@@ -12,7 +12,8 @@
 ---
 
 # 📑 Table of Contents  
-- [📌 Project Overview](#-project-overview)  
+- [📌 Project Overview](#-project-overview)
+- [📂 Repository Contents](#-repository-contents) 
 - [🏁 Business Task](#-business-task)  
 - [🧭 1 Ask Phase](#-1-ask-phase)  
 - [📥 2 Prepare Phase](#-2-prepare-phase)  
@@ -21,10 +22,8 @@
   - [🔷 A. SQL Analysis](#-a-sql-analysis-mysql)  
   - [🔷 B. R Analysis](#-b-r-analysis-rstudio)  
 - [📤 5 Share Phase](#-5-share-phase)  
-- [🚀 6 Act Phase](#-6-act-phase)  
-- [📂 Repository Contents](#-repository-contents)  
-- [🙌 Acknowledgments](#-acknowledgments)  
-- [👤 Author](#-author)   
+- [🚀 6 Act Phase](#-6-act-phase)    
+- [🙌 Acknowledgments](#-acknowledgments)     
 
 ---
 
@@ -33,6 +32,18 @@ This case study explores Fitbit-style smart-device usage to understand user beha
 The goal is to uncover trends that can help **Bellabeat** optimize wellness product strategy and marketing.
 
 Tools Used: **MS Excel**, **MySQL**, **RStudio**
+
+---
+
+# 📂 Repository Contents  
+
+| Folder/File | Description |
+|-------------|-------------|
+| **Fitbit_analysis_results/** | SQL outputs + R visualizations |
+| **fitbit_analysis_R/** | RStudio project files |
+| **Tranformed_Fitbit_Dataset.xlsx** | Final cleaned dataset |
+| **fitbit_analysis.sql** | MySQL script |
+| **README.md** | Full case study |
 
 ---
 
@@ -221,12 +232,6 @@ Below are **all final R visualizations** with filenames and one-line description
 
 ---
 
-## 📊 **6. Average Steps by Day of Week — Bar Chart**
-![Steps Week Bar](./Fitbit_analysis_results/avg_steps_by_day_of_week_sql.png)  
-*Reinforces weekday vs weekend movement differences.*
-
----
-
 # 🚀 6. Act Phase  
 ### ✔ **High-Level Insights**
 - **Activity peaks** between 7 AM–10 AM  
@@ -257,29 +262,9 @@ Below are **all final R visualizations** with filenames and one-line description
 
 ---
 
-# 📂 Repository Contents  
-
-| Folder/File | Description |
-|-------------|-------------|
-| **Fitbit_analysis_results/** | SQL outputs + R visualizations |
-| **fitbit_analysis_R/** | RStudio project files |
-| **Tranformed_Fitbit_Dataset.xlsx** | Final cleaned dataset |
-| **fitbit_analysis.sql** | MySQL script |
-| **README.md** | Full case study |
-
----
-
 # 🙌 Acknowledgments  
 Dataset: **Fitbit Fitness Tracker Data (Public Domain – Mobius / Kaggle)**  
 Completed as part of the **Google Data Analytics Professional Certificate**
 
 ---
 
-# 👤 Author  
-**Abdullah Ahmad**  
-Data Analyst | SQL • R • Excel • BI  
-
-🔗 GitHub: https://github.com/abdullahahmadd  
-🔗 LinkedIn: *(Add your link)*  
-
----
