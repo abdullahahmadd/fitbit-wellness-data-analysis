@@ -192,44 +192,38 @@ Below are **all final R visualizations** with filenames and one-line description
 ---
 
 ## 📊 **1. Average Daily Steps by Day of Week**
-![Avg Steps Week](./Fitbit_analysis_results/avg_daily_steps_by_day_of_week_R.png)  
+![Avg Steps Week](./Fitbit_analysis_results/avg_daily_steps_by_of_week_R.png)  
 *Shows which weekdays have the highest activity levels (Wednesday peaks).*
 
 ---
 
 ## 📊 **2. Sleep Hours vs Daily Steps**
-![Sleep vs Steps](./Fitbit_analysis_results/sleep_hours_vs_daily_steps_R.png)  
+![Sleep vs Steps](./Fitbit_analysis_results/relationship_btw_sleep_hrs_&_daily_steps_R.png)  
 *Reveals whether more sleep correlates with higher activity.*
 
 ---
 
 ## 📊 **3. Calories Burned vs Active Minutes**
-![Calories vs Active Minutes](./Fitbit_analysis_results/calories_vs_active_minutes_R.png)  
+![Calories vs Active Minutes](./Fitbit_analysis_results/calories_burned_vs_active_mints_R.png)  
 *Shows how calories burned increase as active minutes rise.*
 
 ---
 
 ## 📊 **4. Average Daily Heart Rate Trend**
-![HR Trend](./Fitbit_analysis_results/avg_daily_heartrate_trend_R.png)  
+![HR Trend](./Fitbit_analysis_results/daily_Avg_heartrate_trend_R.png)  
 *Displays long-term changes in daily average heart rate.*
 
 ---
 
 ## 📊 **5. Average Steps by Hour of Day**
-![Steps by Hour](./Fitbit_analysis_results/avg_steps_by_hour_R.png)  
+![Steps by Hour](./Fitbit_analysis_results/avg_steps_by_hour_of_day_R.png)  
 *Identifies morning peak activity (7 AM–10 AM).*
 
 ---
 
 ## 📊 **6. Average Steps by Day of Week — Bar Chart**
-![Steps Week Bar](./Fitbit_analysis_results/steps_by_day_of_week_bar_R.png)  
+![Steps Week Bar](./Fitbit_analysis_results/avg_steps_by_day_of_week_sql.png)  
 *Reinforces weekday vs weekend movement differences.*
-
----
-
-## 📊 **7. Intensity vs Calories Burned**
-![Intensity vs Calories](./Fitbit_analysis_results/intensity_vs_calories_R.png)  
-*Shows a strong relationship between high intensity and increased calorie burn.*
 
 ---
 
