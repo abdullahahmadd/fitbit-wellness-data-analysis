@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./fitbit_banner.png" alt="Fitbit Wellness Case Study Banner" width="100%">
+</p>
+
+
 # 🏃 Fitbit Wellness Case Study — Google Data Analytics Capstone  
 **Ask → Prepare → Process → Analyze → Share → Act**
 
