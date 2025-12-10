@@ -91,7 +91,7 @@ The output of this phase was a clear understanding of what insights needed to be
 
 ---
 
-# 🔷 A. SQL Analysis (MySQL)  
+## 🔷 A. SQL Analysis (MySQL)  
 👉 *All screenshots are stored in:*  📂 [`Fitbit_analysis_results`](./Fitbit_analysis_results)
 📄 SQL Script: [`fitbit_analysis.sql`](./fitbit_analysis.sql)
 
@@ -179,7 +179,7 @@ The output of this phase was a clear understanding of what insights needed to be
 
 ---
 
-# 🔷 B. R Analysis (RStudio)  
+## 🔷 B. R Analysis (RStudio)  
 👉 Folder: **fitbit_analysis_R**  
 Using `tidyverse`, `lubridate`, `ggplot2`
 
