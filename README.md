@@ -11,16 +11,19 @@
 
 # Table of Contents
 
-1. [Project Overview](#-project-overview)  
-2. [Repository Contents](#-repository-contents)  
-3. [Business Task](#-business-task)  
-4. [Ask Phase](#-ask-phase)  
-5. [Prepare Phase](#-prepare-phase)  
-6. [Process Phase](#-process-phase)  
-7. [Analyze Phase](#️-analyze-phase)    
-8. [Share Phase](#-share-phase)  
-9. [Act Phase](#-act-phase)  
-10. [Acknowledgments](#-acknowledgments)     
+1. [Project Overview](#project-overview)  
+2. [Repository Contents](#repository-contents)  
+3. [Business Task](#business-task)  
+4. [Tools & Technologies Used](#tools--technologies-used)  
+5. [Libraries Used](#libraries-used)  
+6. [Skills Demonstrated](#skills-demonstrated)  
+7. [Ask Phase](#-ask-phase)  
+8. [Prepare Phase](#-prepare-phase)  
+9. [Process Phase](#-process-phase)  
+10. [Analyze Phase](#-analyze-phase)  
+11. [Share Phase](#-share-phase)  
+12. [Act Phase](#-act-phase)  
+13. [Acknowledgments](#acknowledgments)     
 
 ---
 
@@ -51,6 +54,35 @@ Bellabeat wants insights into **how users interact with wearable devices** to im
 - What are the main behavioral trends in activity, sleep, and heart rate?  
 - How do these trends reflect user habits?  
 - What insights can guide Bellabeat’s marketing and product decisions?
+
+---
+
+## ⚙️ Tools & Technologies Used
+
+- **Microsoft Excel**
+  - Data cleaning, transformation, and feature engineering.  
+  - Combined 7 raw CSV files into one transformed dataset.  
+
+- **MySQL Workbench**
+  - Created SQL tables for all transformed dataset sheets.  
+  - Performed data aggregation (sleep, steps, HR, calories, intensity).  
+  - Built the consolidated `daily_master` analytical table.  
+
+- **RStudio**
+  - Data import and wrangling using tidyverse.  
+  - Aggregations, merging datasets, and EDA.  
+  - Visualizations using ggplot2. 
+
+---
+
+## 📚 Libraries Used
+
+- **tidyverse** – general data manipulation  
+- **dplyr** – aggregations, filtering, grouping  
+- **lubridate** – date & time parsing
+- **readxl** – import multi-sheet Excel file  
+- **janitor** – clean and standardize column names  
+- **ggplot2** – data visualization  
 
 ---
 
