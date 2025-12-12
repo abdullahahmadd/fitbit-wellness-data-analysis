@@ -62,7 +62,7 @@ The output of this phase was a clear understanding of what insights needed to be
 ---
 
 # 📥 Prepare Phase  
-## **1. Tools:** MS Excel  
+## 1. Tools: MS Excel  
 - Loaded 7 raw Fitbit CSV files  
 - Cleaned messy fields  
 - Standardized structures  
@@ -77,7 +77,7 @@ The output of this phase was a clear understanding of what insights needed to be
 ---
 
 # 🧹 Process Phase  
-### Tools: MS Excel  
+## 1. Tools: MS Excel  
 - Fixed inconsistencies  
 - Created columns: `day_of_week`, `week_number`, `sleep_hours`  
 - Rounded numerical data  
@@ -86,7 +86,7 @@ The output of this phase was a clear understanding of what insights needed to be
 ---
 
 # 🗄️ Analyze Phase  
-### 1. Tools: MySQL Workbench & RStudio  
+## 1. Tools: MySQL Workbench & RStudio  
 
 ---
 
