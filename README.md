@@ -59,38 +59,46 @@ Bellabeat wants insights into **how users interact with wearable devices** to im
 
 ## ⚙️ Tools & Technologies Used
 
-- **Microsoft Excel**
-  - Data cleaning, transformation, and feature engineering.  
-  - Combined 7 raw CSV files into one transformed dataset.  
-
-- **MySQL Workbench**
-  - Created SQL tables for all transformed dataset sheets.  
-  - Performed data aggregation (sleep, steps, HR, calories, intensity).  
-  - Built the consolidated `daily_master` analytical table.  
-
-- **RStudio**
-  - Data import and wrangling using tidyverse.  
-  - Aggregations, merging datasets, and EDA.  
-  - Visualizations using ggplot2. 
+- MS Excel  
+- MySQL Workbench  
+- RStudio  
 
 ---
 
 ## 📚 Libraries Used
 
-- **tidyverse** – general data manipulation  
-- **dplyr** – aggregations, filtering, grouping  
-- **lubridate** – date & time parsing
-- **readxl** – import multi-sheet Excel file  
-- **janitor** – clean and standardize column names  
-- **ggplot2** – data visualization  
+These are the R programming language libraries used in this project:
+- tidyverse  
+- dplyr  
+- lubridate  
+- readxl  
+- janitor  
+- ggplot2  
 
 ---
 
-# 🧭 Ask Phase  
+## 🎯 Skills Demonstrated
+
+- Data Cleaning & Preprocessing (Excel, SQL, R).  
+- Data Transformation & Feature Engineering. 
+- Relational Database Design (MySQL tables).  
+- Writing complex SQL analytical queries.  
+- Handling large, high-frequency sensor datasets. 
+- Building aggregated daily-level analytical datasets.  
+- Exploratory Data Analysis (EDA).  
+- Statistical summarization & trend identification.  
+- Data Visualization using R (ggplot2).  
+- Insight generation & business storytelling.    
+
+---
+
+# 🧭 Ask Phase
+
 - Identified problem  
 - Defined stakeholders  
 - Clarified analysis questions  
 The output of this phase was a clear understanding of what insights needed to be extracted from the dataset.
+
 ---
 
 # 📥 Prepare Phase  
