@@ -11,19 +11,19 @@
 
 # Table of Contents
 
-1. [Project Overview](#project-overview)  
-2. [Repository Contents](#repository-contents)  
-3. [Business Task](#business-task)  
-4. [Tools & Technologies Used](#tools--technologies-used)  
-5. [Libraries Used](#libraries-used)  
-6. [Skills Demonstrated](#skills-demonstrated)  
+1. [Project Overview](#-project-overview)  
+2. [Repository Contents](#-repository-contents)  
+3. [Business Task](#-business-task)  
+4. [Tools & Technologies Used](#-tools--technologies-used)  
+5. [Libraries Used](#-libraries-used)  
+6. [Skills Demonstrated](#-skills-demonstrated)  
 7. [Ask Phase](#-ask-phase)  
 8. [Prepare Phase](#-prepare-phase)  
 9. [Process Phase](#-process-phase)  
 10. [Analyze Phase](#-analyze-phase)  
 11. [Share Phase](#-share-phase)  
 12. [Act Phase](#-act-phase)  
-13. [Acknowledgments](#acknowledgments)     
+13. [Acknowledgments](#-acknowledgments)     
 
 ---
 
