@@ -1,4 +1,5 @@
-# 🏃Fitbit Wellness Case Study — Google Data Analytics Capstone  
+# 🏃‍♂️ Fitbit Wellness Data Analysis
+### Google Data Analytics Specialization - Capstone Project
 **Ask → Prepare → Process → Analyze → Share → Act**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.fitbit-wellness-case-study)
