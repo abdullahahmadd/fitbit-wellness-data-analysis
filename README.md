@@ -1,4 +1,4 @@
-# 🏃‍♂️ Fitbit Wellness Data Analysis
+# 🏃‍♂️ Fitbit Wellness Data Analysis (Excel, SQL, R)
 ### 🎓 Google Data Analytics Specialization - Capstone Project
 **Ask → Prepare → Process → Analyze → Share → Act**
 
